@@ -3,5 +3,6 @@ from django.utils import timezone
 from .models import Post
 
 def post_list(request):
+    print("VIEW IS BEING CALLED")
     posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date').reverse()
     return render(request, 'blog/post_list.html', {'posts': posts})
