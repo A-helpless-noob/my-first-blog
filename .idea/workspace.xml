@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9726aa-b80f-470b-a30d-6422998b8428" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Djangogirls.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Djangogirls.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectfolder/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectfolder/blog/templates/blog/post_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projectfolder/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectfolder/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectfolder/projectfolder/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectfolder/projectfolder/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectfolder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/projectfolder/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/thoma/PycharmProjects/PythonProject/mysite",
     "node.js.detected.package.eslint": "true",
@@ -127,7 +130,8 @@
       <workItem from="1749520337466" duration="5043000" />
       <workItem from="1749526582604" duration="547000" />
       <workItem from="1749569642382" duration="1572000" />
-      <workItem from="1749571661998" duration="5741000" />
+      <workItem from="1749571661998" duration="11137000" />
+      <workItem from="1749783036188" duration="2687000" />
     </task>
     <servers />
   </component>
